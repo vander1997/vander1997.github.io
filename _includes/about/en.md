@@ -2,7 +2,7 @@
 > > 阿甘 AND Again
 
 
-Hi，I'm Again，my formal name is Wanda Zhang，I'll react if you call me one hundered Zhang.There is some my sojourn place:[blog](https://www.mragain.site)、[weibo](weibo.com/weibo.com/2863503252/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)、zhihu、[Twitter](https://twitter.com/vanderZhang)、[Github](https://github.com/vander1997)，another is discovering。
+Hi，I'm Again，my formal name is Wanda Zhang，I'll react if you call me one hundered Zhang.There is some my sojourn place:[blog](https://www.mragain.site)、[weibo](weibo.com/2863503252/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)、zhihu、[Twitter](https://twitter.com/vanderZhang)、[Github](https://github.com/vander1997)，another is discovering。
 
 My major is Mechatronic Enginerring.
 
