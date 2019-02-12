@@ -6,6 +6,7 @@ Hi，I'm Again，my formal name is Wanda Zhang，I'll react if you call me one h
 
 My major is Mechatronic Enginerring.
 
+Sometimes I will post my informal poem in [UQN-BBS][2]
 
 ##### Talks
 
@@ -13,3 +14,4 @@ My major is Mechatronic Enginerring.
 - More ability will be discover.
 
 [1]: https://mp.weixin.qq.com/s?__biz=MzI3ODkxODA5Ng==&mid=2247483956&idx=1&sn=1baf8844323a209d839e7ba4ba76d3ac&chksm=eb4ee48bdc396d9dad28164330229ad5009e05bd278c13bc9fc99ba9eb3c41bac5e157fc9415&mpshare=1&scene=22&srcid=0123IujQveXoIicvDvU521R0#rd
+[2]：https://uqn.life/member/12
