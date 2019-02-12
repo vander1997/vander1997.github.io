@@ -5,7 +5,7 @@
 
 我的专业是机械电子工程。
 
-有时候也写非严肃诗歌，大多放在[UQN][2]论坛
+有时候也写非严肃诗歌，大多放在[UQN](https://uqn.life/member/12)论坛
 
 ##### Talks
 
@@ -13,4 +13,3 @@
 - 醒悟较晚，更多技能正在开发。
 
 [1]: https://mp.weixin.qq.com/s?__biz=MzI3ODkxODA5Ng==&mid=2247483956&idx=1&sn=1baf8844323a209d839e7ba4ba76d3ac&chksm=eb4ee48bdc396d9dad28164330229ad5009e05bd278c13bc9fc99ba9eb3c41bac5e157fc9415&mpshare=1&scene=22&srcid=0123IujQveXoIicvDvU521R0#rd
-[2]：https://uqn.life/member/12
