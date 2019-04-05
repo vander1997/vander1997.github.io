@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
+RSS: http://feeds.feedburner.com/mragain
 weibo_username:     2863503252/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
 github_username:    vander1997
 twitter_username:   vanderZhang
