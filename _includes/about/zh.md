@@ -10,6 +10,6 @@
 ##### Talks
 
 - [微信公众号Mr Again][1]连接——聪明社会的傻子生存法则
-- 醒悟较晚，更多技能正在开发。
+- RSS源http://feeds.feedburner.com/mragain
 
 [1]: https://mp.weixin.qq.com/s?__biz=MzI3ODkxODA5Ng==&mid=2247483956&idx=1&sn=1baf8844323a209d839e7ba4ba76d3ac&chksm=eb4ee48bdc396d9dad28164330229ad5009e05bd278c13bc9fc99ba9eb3c41bac5e157fc9415&mpshare=1&scene=22&srcid=0123IujQveXoIicvDvU521R0#rd
