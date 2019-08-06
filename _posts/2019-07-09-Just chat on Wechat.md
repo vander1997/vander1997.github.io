@@ -2,9 +2,9 @@
 layout:     post 
 title:      "Just chat on Wechat"
 subtitle:   "聊天工具只用来聊天"
-date:       2019-07-08 13:00:00
+date:       2019-07-09 13:00:00
 author:     "Mr Again"
-header-img: "img/post-bg-wechat.PNG"
+header-img: "img/post-bg-wechat.png"
 catalog: true
 tags:
     - wechat
